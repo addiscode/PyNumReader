@@ -15,7 +15,7 @@ in your python code
 
 import hafiz_num_reader
 
->>> a = hafiz_num_reader.read_number(2558414)
->>> a
-'two million  five hundred fifty eight  thousand  four hundred fourteen  '
+>>> a = hafiz_num_reader.read_number(2558414)<br/>
+>>> a<br/>
+>>>'two million  five hundred fifty eight  thousand  four hundred fourteen  '
 >>> 
