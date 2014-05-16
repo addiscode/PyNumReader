@@ -1,7 +1,7 @@
 PyNumReader
 ===========
 
-Native python extension module in C++ for reading numbers
+Native python number reader extension module in C++ 
 
 
 You need to install python-dev and necessary utils to build this extension on your machine
